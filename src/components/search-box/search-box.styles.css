@@ -1,0 +1,12 @@
+.search {
+	-webkit-appearance: none;
+	border: none;
+	outline: none;
+	padding: 10px;
+	width: 17.5rem;
+	line-height: 30px;
+	margin-bottom: 30px;
+	background: rgb(227, 227, 227);
+	background: linear-gradient(90deg, rgba(227, 227, 227, 1) 0%, rgba(236, 243, 252, 1) 100%);
+	font-size: 1.5rem;
+}
